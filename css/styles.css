@@ -2,7 +2,8 @@
   flex: 1 0 auto; }
 
 #sticky-footer {
-  flex-shrink: none; }
+  flex-shrink: none;
+  color: white; }
 
 /* Other Classes for Page Styling */
 .strips {
