@@ -1,4 +1,7 @@
 
+
+
+
 h2, h3 {
     font-family: 'Caveat', cursive;
     font-weight: 400;
@@ -8,4 +11,23 @@ h2, h3 {
 h1 {
   /* font-family: 'Boogaloo', cursive; */
   font-family:'Caveat','Allerta Stencil', 'Wendy One',   sans-serif;
+}
+
+
+h1, h2 {
+  font-weight: 300;
+}
+
+.fa {
+  font-size: 30px;
+  color: white;
+}
+
+h2 {
+  font-size: 36px;
+  margin: 0 0 16px;
+}
+
+p {
+  margin: 0 0 16px;
 }

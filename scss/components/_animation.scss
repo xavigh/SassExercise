@@ -1,0 +1,48 @@
+
+ 
+  .strips__strip:nth-child(1) .strip__content {
+    background: #244F75;
+    -webkit-transform: translate3d(-100%, 0, 0);
+            transform: translate3d(-100%, 0, 0);
+    -webkit-animation-name: strip1;
+            animation-name: strip1;
+    -webkit-animation-delay: 0.1s;
+            animation-delay: 0.1s;
+  }
+  .strips__strip:nth-child(2) .strip__content {
+    background: #60BFBF;
+    -webkit-transform: translate3d(0, 100%, 0);
+            transform: translate3d(0, 100%, 0);
+    -webkit-animation-name: strip2;
+            animation-name: strip2;
+    -webkit-animation-delay: 0.2s;
+            animation-delay: 0.2s;
+  }
+  .strips__strip:nth-child(3) .strip__content {
+    background: #8C4B7E;
+    -webkit-transform: translate3d(0, -100%, 0);
+            transform: translate3d(0, -100%, 0);
+    -webkit-animation-name: strip3;
+            animation-name: strip3;
+    -webkit-animation-delay: 0.3s;
+            animation-delay: 0.3s;
+  }
+  .strips__strip:nth-child(4) .strip__content {
+    background: #F8BB44;
+    -webkit-transform: translate3d(0, 100%, 0);
+            transform: translate3d(0, 100%, 0);
+    -webkit-animation-name: strip4;
+            animation-name: strip4;
+    -webkit-animation-delay: 0.4s;
+            animation-delay: 0.4s;
+  }
+  .strips__strip:nth-child(5) .strip__content {
+    background: #F24B4B;
+    -webkit-transform: translate3d(100%, 0, 0);
+            transform: translate3d(100%, 0, 0);
+    -webkit-animation-name: strip5;
+            animation-name: strip5;
+    -webkit-animation-delay: 0.5s;
+            animation-delay: 0.5s;
+  }
+  
